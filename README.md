@@ -14,6 +14,7 @@ Tired of your old smart TV which can't fetch subtitles for videos automatically,
 
 Dependancies
 ============
-1. Filebot
-2. MKVMerge
-3. FFMpeg (fallback in case MKVMerge doesn't work)
+1. PHP
+2. Filebot
+3. MKVMerge
+4. FFMpeg (fallback in case MKVMerge doesn't work)
